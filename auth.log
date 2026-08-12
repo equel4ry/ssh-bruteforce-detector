@@ -1,0 +1,5 @@
+Jan 10 14:01:02 server sshd[123]: Accepted password for admin from 192.168.1.10
+Jan 10 14:05:11 server sshd[124]: Failed password for root from 10.0.0.55
+Jan 10 14:05:15 server sshd[124]: Failed password for root from 10.0.0.55
+Jan 10 14:05:19 server sshd[124]: Failed password for root from 10.0.0.55
+Jan 10 14:10:00 server sshd[125]: Failed password for guest from 192.168.1.100
